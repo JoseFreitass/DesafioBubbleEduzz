@@ -23,26 +23,27 @@ Fluxos efetuados:<br><br><br>
 
 Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possuí á página de Cadastro e Login.<br>
 
-<b>Página de Cadastro > Efetua o cadastro do usuário<b><br>
+      1.1 Página de Cadastro > Efetua o cadastro do usuário
 
-Input-e-mail > E-mail <br>
-Input-text > Nome/Razão Social <br>
-Input-text(number only) > CPF ou CNPJ <br>
-Input-text(number only) > Celular <br>
-Input-password > Senha <br>
+      Input-e-mail > E-mail
+      Input-text > Nome/Razão Social 
+      Input-text(number only) > CPF ou CNPJ 
+      Input-text(number only) > Celular
+      Input-password > Senha
 
-Button > Cadastrar <br>
+      Button > Cadastrar 
 
 
-Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro. <br><br><br>
+      Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro.
   
 
-<b>Página de Login > Efetua o login do usuário na plataforma<b> <br>
+      1.2 Página de Login > Efetua o login do usuário na plataforma
 
-Input > E-mail <br>
-Input > Senha <br>
+      Input > E-mail 
+      Input > Senha 
 
-Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!", caso seja preciso oscilar entre uma página ou outra. <br><br><br>
+      Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!",
+      caso seja preciso oscilar entre as páginas.
 
 
 
@@ -54,12 +55,57 @@ Após efetuar Login no sistema, é possível deslogar do mesmo, pelo botão "Sai
   
   Em seguida, contém os dados exibidos do cadastro efetuado pelo usuário, sendo: Nome/Razão social, CPF/CNPJ, E-mail e Celular.
   
-  Os dados são exibidos em inputs-disable para que o usuário possa apenas visualizar e não editar de imediato. Os dois primeiros campos, 
+  Os dados são exibidos em inputs-disable para que o usuário possa apenas visualizar e não editar de imediato. 
+  
+  ![image](https://user-images.githubusercontent.com/85848930/209582923-8a8fa242-baa4-43f2-b601-90415224fc36.png)
+
+  
+  O "input-text(number only)> Celular", é possível efetuar alteração sem precisar validar documentos/fotos dos clientes. Basta clicar no ícone de edição e inserir o celular que desejar.
+  
+  Já o campo, E-mail, é necessário efetruar diversos procedimentos por se tratar de um dado sensível. <br><br><br>
 
 
 
+  3 - Solicitação de alteração de e-mail
+  
+  Essa página contém solicitações de documentos/informações dos clientes. 
+  
+    3.1 Solicitar que o mesmo autorize ou rejeite o tratamento dos dados na plataforma, se atentando as leis LGDP
+        (Lei Geral de Proteção de Dados)
+  
+        É fundamental que o mesmo escreva se autoriza ou não e o motivo pelo qual está solicitando a edição do e-mail.
 
 
+    3.2 Logo em seguida, é solicitado 4 fotos para a aprovação da edição.
+    
+    3.3 Informar o e-mail que deseja inserir na plataforma.
+  
+![image](https://user-images.githubusercontent.com/85848930/209583594-e0156287-480c-428e-843f-b5784bb74d35.png)
 
 
+    Finalizando com um Botão para salvar e armazenar todos as informações/documentos na Tabela_Dados.
+    Sendo eles: Arquivo1, Arquivo2, Arquivo3, Arquivo4, Descrição, E-mail_Novo e Data de solicitação.
+  
+    Clicando no Botão "Enviar solicitação" o usuário é redirecionado para a página Perfil, onde é notificado e informado 
+    que efetuou a solicitação de alteração.
+  
+  
+ 4 - Validação de alteração
+  
+  Essa página, fica disponibilizada para os atendentes (admin), onde o usuário não possuirá acesso.  
+  
+  
+  Puxando informações da Tabela_Dados, que o usuário cadastrou sua solicitação:
+  
+  ![image](https://user-images.githubusercontent.com/85848930/209583843-1236325f-831e-4f62-93fb-4e5f4559ed63.png)
 
+  Descrição, E-mail deseja, CPF do cadastro, e documentos solicitados. 
+  
+  Os atendentes, irão visualizar a solicitação e vericar diante aos documentos/descrição podendo APROVAR ou REPROVAR a solicitação. 
+  
+    4.1 Após clicar no Botão APROVAR, o e-mail do cadastro do usuário é alterado com sucesso e os dados armazenados na
+        Tabela_Dados é excluído, referente a essa solicitação.
+  
+        Caso clique em REPROVAR, o e-mail não é alterado e os dados armazenados na Tabela_Dados é excluído, referente a essa solicitação.
+  
+        Logo em seguida, contém um Botão para retornar a página de Perfil do Usuário, onde é possível visualizar o e-mail alterado ou reprovado.
