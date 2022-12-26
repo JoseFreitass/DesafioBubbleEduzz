@@ -33,8 +33,6 @@ Logo, o mesmo irá inserir os documentos precisos para alteração dos dados.
 
 ![image](https://user-images.githubusercontent.com/85848930/209581588-f65920da-7547-4d3e-89ce-54846e13953d.png)
 
-![image](https://user-images.githubusercontent.com/85848930/209581596-1de73e06-05ed-4f9a-a1a6-573f911564a4.png)
-
 ![image](https://user-images.githubusercontent.com/85848930/209581603-90529128-eae5-4b59-b6c2-2bb9ca84df6e.png)
 
 Em seguida, informar o e-mail para qual deseja alterar.
