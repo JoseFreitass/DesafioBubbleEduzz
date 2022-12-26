@@ -17,6 +17,33 @@ O proejto trás uma automação para alteração de dados sensíveis, uma págin
 ![image](https://user-images.githubusercontent.com/85848930/209581176-15e0a2fe-73e9-4808-b38d-bc007695b5a7.png)
 
 
+O usuário, seja ele qual for (Cliente Final, Afiliado ou Produtor), efetua o processo de solicitação, enviando os documentos, fotos e e-mail que deseja inserir na plataforma.
+
+
+Primeiramente, se atentar as leis LGDP(Lei Geral de Proteção de Dados), pois estamos tratando/manuseando os dados dos clientes.
+
+Neste inputText, o usuário vai escrever se aceita ou rejeita o manuseio dos dados, e o motivo pelo qual está solicitando a alteração.
+
+![image](https://user-images.githubusercontent.com/85848930/209581400-c6c6416e-dbb4-4a9d-b723-1d8c27bd767b.png)
+
+
+Logo, o mesmo irá inserir os documentos precisos para alteração dos dados.
+
+![image](https://user-images.githubusercontent.com/85848930/209581500-8a496db1-f5fd-410c-ab7b-7f97f4b8d997.png)
+
+![image](https://user-images.githubusercontent.com/85848930/209581517-abed9aac-a3a6-4de8-a273-f28f8f47edfe.png)
+
+![image](https://user-images.githubusercontent.com/85848930/209581525-a4b28b5d-773c-451b-9a91-00a9ee70103c.png)
+
+![image](https://user-images.githubusercontent.com/85848930/209581531-35e8fb7d-dfa5-464d-a133-3b0daa90c7d1.png)
+
+Em seguida, informar o e-mail para qual deseja alterar.
+
+![image](https://user-images.githubusercontent.com/85848930/209581545-58532494-8fd7-4c16-9103-16dacd6fa866.png)
+
+
+
+
 
 
 
