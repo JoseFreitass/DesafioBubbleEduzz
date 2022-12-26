@@ -111,7 +111,8 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
   
         Caso clique em REPROVAR, o e-mail não é alterado e os dados armazenados na Tabela_Dados é excluído, referente a essa solicitação.
   
-        Logo em seguida, contém um Botão para retornar a página de Perfil do Usuário, onde é possível visualizar o e-mail alterado ou reprovado.
+        Logo em seguida, contém um Botão para retornar a página de Perfil do Usuário, onde é possível visualizar
+        o e-mail alterado ou reprovado.
   
  5 - Justificativa 
 
