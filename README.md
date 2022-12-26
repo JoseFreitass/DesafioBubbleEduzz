@@ -16,16 +16,14 @@ O proejto trás uma automação para alteração de dados sensíveis, uma págin
 
 O usuário, seja ele qual for (Cliente Final, Afiliado ou Produtor), efetua o processo de solicitação, enviando os documentos, fotos e e-mail que deseja inserir na plataforma.
 
+Fluxos efetuados:<br><br><br> 
 
-Fluxos efetuados: 
-
-
-1 - Cadastro / Login
+<b>1 - Cadastro / Login<b>
 
 
 Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possuí á página de Cadastro e Login.<br>
 
-Página de Cadastro > Efetua o cadastro do usuário<br>
+<b>Página de Cadastro > Efetua o cadastro do usuário<b><br>
 
 Input-e-mail > E-mail <br>
 Input-text > Nome/Razão Social <br>
@@ -36,18 +34,27 @@ Input-password > Senha <br>
 Button > Cadastrar <br>
 
 
-Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro. <br>
+Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro. <br><br><br>
+  
 
 <b>Página de Login > Efetua o login do usuário na plataforma<b> <br>
 
 Input > E-mail <br>
 Input > Senha <br>
 
-Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!", caso seja preciso ocilar dentre uma página ou outra. <br>
+Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!", caso seja preciso oscilar entre uma página ou outra. <br><br><br>
 
 
 
+<b>2 - Perfil<b>
 
+Após efetuar Login no sistema, é possível deslogar do mesmo, pelo botão "Sair"
+  
+  Button-Log-out-User-sessions > Sair
+  
+  Em seguida, contém os dados exibidos do cadastro efetuado pelo usuário, sendo: Nome/Razão social, CPF/CNPJ, E-mail e Celular.
+  
+  Os dados são exibidos em inputs-disable para que o usuário possa apenas visualizar e não editar de imediato. Os dois primeiros campos, 
 
 
 
