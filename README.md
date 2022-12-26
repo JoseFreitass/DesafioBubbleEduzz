@@ -31,11 +31,11 @@ Logo, o mesmo irá inserir os documentos precisos para alteração dos dados.
 
 ![image](https://user-images.githubusercontent.com/85848930/209581500-8a496db1-f5fd-410c-ab7b-7f97f4b8d997.png)
 
-![image](https://user-images.githubusercontent.com/85848930/209581517-abed9aac-a3a6-4de8-a273-f28f8f47edfe.png)
+![image](https://user-images.githubusercontent.com/85848930/209581588-f65920da-7547-4d3e-89ce-54846e13953d.png)
 
-![image](https://user-images.githubusercontent.com/85848930/209581525-a4b28b5d-773c-451b-9a91-00a9ee70103c.png)
+![image](https://user-images.githubusercontent.com/85848930/209581596-1de73e06-05ed-4f9a-a1a6-573f911564a4.png)
 
-![image](https://user-images.githubusercontent.com/85848930/209581531-35e8fb7d-dfa5-464d-a133-3b0daa90c7d1.png)
+![image](https://user-images.githubusercontent.com/85848930/209581603-90529128-eae5-4b59-b6c2-2bb9ca84df6e.png)
 
 Em seguida, informar o e-mail para qual deseja alterar.
 
