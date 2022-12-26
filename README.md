@@ -113,4 +113,7 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
   
  5 - Justificativa 
 
-    Dentro da área do atendimento, possuímos diversos Núcleos, sendo eles: Nutror Plus ++, Órbita, Check-out
+    Dentro da área do atendimento, possuímos diversos Núcleos, sendo eles: Nutror Plus ++, Órbita e Check-out, esse automatização iria impactar todos núcleos, possuindo benefícios para todos.
+  
+  
+  Att, José Henrique Freitas (Zé) ;) 
