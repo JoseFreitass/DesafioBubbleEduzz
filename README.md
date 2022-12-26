@@ -49,11 +49,12 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
 
 <b>2 - Perfil<b>
 
-Após efetuar Login no sistema, é possível deslogar do mesmo, pelo botão "Sair"
+  Após efetuar Login no sistema, é possível deslogar do mesmo, pelo botão "Sair"
   
   Button-Log-out-User-sessions > Sair
+  Cliente no mesmo, é encaminhado para a página principal onde contém informações sobre "Temperatura da Cidade de Sorocaba", consumida pela API:         (https://api.hgbrasil.com/weather?woeid=455913), disponibilizada pelo próprio Bubble.io
   
-  Em seguida, contém os dados exibidos do cadastro efetuado pelo usuário, sendo: Nome/Razão social, CPF/CNPJ, E-mail e Celular.
+  Efetuando Login novamente, contém os dados exibidos do cadastro efetuado pelo usuário, sendo: Nome/Razão social, CPF/CNPJ, E-mail e Celular.
   
   Os dados são exibidos em inputs-disable para que o usuário possa apenas visualizar e não editar de imediato. 
   
@@ -109,3 +110,7 @@ Após efetuar Login no sistema, é possível deslogar do mesmo, pelo botão "Sai
         Caso clique em REPROVAR, o e-mail não é alterado e os dados armazenados na Tabela_Dados é excluído, referente a essa solicitação.
   
         Logo em seguida, contém um Botão para retornar a página de Perfil do Usuário, onde é possível visualizar o e-mail alterado ou reprovado.
+  
+ 5 - Justificativa 
+
+    Dentro da área do atendimento, possuímos diversos Núcleos, sendo eles: Nutror Plus ++, Órbita, Check-out
