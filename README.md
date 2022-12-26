@@ -14,7 +14,8 @@ Logo, o problema foi identificado, "falta autonomia de alteração de e-mail pel
 
 O proejto trás uma automação para alteração de dados sensíveis, uma página onde ocorre a moderação das solicitações dos dados. 
 
-![image](https://user-images.githubusercontent.com/85848930/209581126-51e6fd3f-1d9c-4fa3-8b38-7c4ebbebf57d.png)
+![image](https://user-images.githubusercontent.com/85848930/209581176-15e0a2fe-73e9-4808-b38d-bc007695b5a7.png)
+
 
 
 
