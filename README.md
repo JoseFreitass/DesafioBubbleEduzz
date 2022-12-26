@@ -31,7 +31,7 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
       Input-text(number only) > Celular
       Input-password > Senha
 
-      Button > Cadastrar 
+      Button > Cadastrar  -- Redirecionando para á página Perfil
 
 
       Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro.
@@ -41,6 +41,8 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
 
       Input > E-mail 
       Input > Senha 
+  
+      Botão > Login -- Redirecionando para á página Perfil
 
       Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!",
       caso seja preciso oscilar entre as páginas.
