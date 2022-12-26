@@ -23,27 +23,27 @@ Fluxos efetuados:
 1 - Cadastro / Login
 
 
-Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possuí á página de Cadastro e Login.
+Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possuí á página de Cadastro e Login.<br>
 
-Página de Cadastro > Efetua o cadastro do usuário
+Página de Cadastro > Efetua o cadastro do usuário<br>
 
-Input-e-mail > E-mail 
-Input-text > Nome/Razão Social
-Input-text(number only) > CPF ou CNPJ
-Input-text(number only) > Celular
-Input-password > Senha
+Input-e-mail > E-mail <br>
+Input-text > Nome/Razão Social <br>
+Input-text(number only) > CPF ou CNPJ <br>
+Input-text(number only) > Celular <br>
+Input-password > Senha <br>
 
-Button > Cadastrar
+Button > Cadastrar <br>
 
 
-Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro.
+Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro. <br>
 
-<b>Página de Login > Efetua o login do usuário na plataforma<b>
+<b>Página de Login > Efetua o login do usuário na plataforma<b> <br>
 
-Input > E-mail 
-Input > Senha
+Input > E-mail <br>
+Input > Senha <br>
 
-Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!", caso seja preciso ocilar dentre uma página ou outra.
+Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!", caso seja preciso ocilar dentre uma página ou outra. <br>
 
 
 
