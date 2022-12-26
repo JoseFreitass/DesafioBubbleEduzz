@@ -12,7 +12,7 @@ atualizado.
 
 Logo, o problema foi identificado, "falta autonomia de alteração de e-mail pelo prórpio cliente da Eduzz", embora a alteração de e-mail em nossa plataforma seja efetuada internamento pelos atendentes, a mesma não trás produtividade e gera altas demantas, atingindo todos núcleos dentro da área. Atualmente a atualização de dados cadastrais em nossa plataforma é efetuada via ticket/chat, onde ocorre um fluxo de atendimento para que seja concretizada a modificação. Esse fluxo, persiste em diversas etapas, solicitando documentos e fotos para que seja realizada com sucesso. Entretando, ocasiona em diversos fatores, principalemnte no quesito produtividade/qualidade.
 
-O proejto trás uma automação para alteração de dados sensíveis, uma página onde ocorre a moderação das solicitações dos dados. 
+O projeto trás uma automação para alteração de dados sensíveis, uma página onde ocorre a moderação das solicitações dos dados. 
 
 O usuário, seja ele qual for (Cliente Final, Afiliado ou Produtor), efetua o processo de solicitação, enviando os documentos, fotos e e-mail que deseja inserir na plataforma.
 
