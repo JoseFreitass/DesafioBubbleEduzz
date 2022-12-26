@@ -14,28 +14,38 @@ Logo, o problema foi identificado, "falta autonomia de alteração de e-mail pel
 
 O proejto trás uma automação para alteração de dados sensíveis, uma página onde ocorre a moderação das solicitações dos dados. 
 
-![image](https://user-images.githubusercontent.com/85848930/209581176-15e0a2fe-73e9-4808-b38d-bc007695b5a7.png)
-
-
 O usuário, seja ele qual for (Cliente Final, Afiliado ou Produtor), efetua o processo de solicitação, enviando os documentos, fotos e e-mail que deseja inserir na plataforma.
 
 
-Primeiramente, se atentar as leis LGDP(Lei Geral de Proteção de Dados), pois estamos tratando/manuseando os dados dos clientes.
-
-Neste inputText, o usuário vai escrever se aceita ou rejeita o manuseio dos dados, e o motivo pelo qual está solicitando a alteração.
-
-![image](https://user-images.githubusercontent.com/85848930/209581400-c6c6416e-dbb4-4a9d-b723-1d8c27bd767b.png)
+Fluxos efetuados: 
 
 
-Logo, o mesmo irá inserir os documentos precisos para alteração dos dados.
+1 - Cadastro / Login
 
-![image](https://user-images.githubusercontent.com/85848930/209581500-8a496db1-f5fd-410c-ab7b-7f97f4b8d997.png)
 
-![image](https://user-images.githubusercontent.com/85848930/209581603-90529128-eae5-4b59-b6c2-2bb9ca84df6e.png)
+Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possuí á página de Cadastro e Login.
 
-Em seguida, informar o e-mail para qual deseja alterar.
+Página de Cadastro > Efetua o cadastro do usuário
 
-![image](https://user-images.githubusercontent.com/85848930/209581545-58532494-8fd7-4c16-9103-16dacd6fa866.png)
+Input-e-mail > E-mail 
+Input-text > Nome/Razão Social
+Input-text(number only) > CPF ou CNPJ
+Input-text(number only) > Celular
+Input-password > Senha
+
+Button > Cadastrar
+
+
+Dados salvos na Tabela_User, juntamente com Data,Horário e Ano do cadastro.
+
+<b>Página de Login > Efetua o login do usuário na plataforma<b>
+
+Input > E-mail 
+Input > Senha
+
+Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!", caso seja preciso ocilar dentre uma página ou outra.
+
+
 
 
 
