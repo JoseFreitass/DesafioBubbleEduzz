@@ -1,4 +1,4 @@
-Manual do Sistema 
+MANUAL DO SISTEMA
 
 
 
