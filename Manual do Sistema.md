@@ -78,6 +78,16 @@ Manual do Sistema
     Abaixo um botão (Enviar Solicitasção), para finalizar esse processo.
 
  
+ 6 - Moderação
  
+     Para finalizar o fluxo de processo, possui a opção para os atendentes moderar as solicitações feitas pelos usuários. 
+     
+     Os atendentes visualizarão as descrições feitas pelos clientes, o e-mail novo, o CPF do cadastro e os documentos enviados. Contendo autoridade para APROVAR OU REPROVAR a solicitação, pelos botões localizados abaixo.
+     
+   ![image](https://user-images.githubusercontent.com/85848930/209717695-01b8546d-a3a5-49b3-9702-ff45fe8abc74.png)
+   
+   
+     Após efetuar a moderação, é possível voltar para a página de perfil, para exibição dos dados atualizados.
+
 
     
