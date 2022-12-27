@@ -1,4 +1,4 @@
-# DesafioBubbleEduzz
+# DesafioBubbleEduzz - José Henrique Freitas
 
 
   O produto foi desenvolvido para resolver um problema real da sua própria área, que contenha
