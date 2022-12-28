@@ -5,23 +5,23 @@
 Criação/Atualização de registros (salvando dados no banco de dados do Bubble), Leitura de dados e
 exibição em formato tabela/grid e exclusão de dado.
 
-Na página inicial da sua aplicação, exibe a temperatura da cidade de Sorocaba (faça uma integração
+Na página inicial de sua aplicação, exibe a temperatura da cidade de Sorocaba (faça uma integração
 com uma das APIs de meteorologia disponíveis na plataforma para que o valor esteja sempre
 atualizado.
 
 
-Logo, o problema foi identificado, "falta autonomia de alteração de e-mail pelo próprio cliente da Eduzz", embora a alteração de e-mail em nossa plataforma seja efetuada internamento pelos atendentes, a mesma não trás produtividade e gera altas demantas, atingindo todos núcleos dentro da área. Atualmente a atualização de dados cadastrais em nossa plataforma é efetuada via ticket/chat, onde ocorre um fluxo de atendimento para que seja concretizada a modificação. Esse fluxo, persiste em diversas etapas, solicitando documentos e fotos para que seja realizada com sucesso. Entretando, ocasiona em diversos fatores, principalemnte no quesito produtividade/qualidade.
+Logo, o problema foi identificado: Falta autonomia de alteração de e-mail pelo próprio cliente da Eduzz. Embora a alteração de e-mail na plataforma seja efetuada internamente pelos atendentes, a mesma não traz produtividade e gera altas demantas, atingindo todos os núcleos dentro da área. Atualmente, a atualização de dados cadastrais é efetuada via ticket/chat, onde ocorre um fluxo de atendimento para que seja concretizada a modificação. Esse fluxo persiste em diversas etapas, solicitando documentos e fotos para que seja realizada com sucesso. Entretanto, afeta diversos fatores, principalemnte no quesito produtividade/qualidade.
 
-O projeto trás uma automação para alteração de dados sensíveis, uma página onde ocorre a moderação das solicitações dos dados. 
+O projeto traz uma automação para alteração de dados sensíveis, que é uma página onde ocorre a moderação das solicitações dos dados. 
 
-O usuário, seja ele qual for (Cliente Final, Afiliado ou Produtor), efetua o processo de solicitação, enviando os documentos, fotos e e-mail que deseja inserir na plataforma.
+O usuário, seja ele qual for (Cliente Final, Afiliado ou Produtor), efetua o processo de solicitação enviando os documentos, fotos e e-mail que deseja inserir na plataforma.
 
 Fluxos efetuados:<br><br><br> 
 
 <b>1 - Cadastro / Login<b>
 
 
-Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possuí á página de Cadastro e Login.<br>
+Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar logado no sistema, para isso, possui a página de Cadastro e Login.<br>
 
       1.1 Página de Cadastro > Efetua o cadastro do usuário
 
@@ -44,7 +44,7 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
   
       Botão > Login -- Redirecionando para á página Perfil
 
-      Ambas páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!",
+      Ambas as páginas, contém ligação com botão "Criar uma conta" e "Já possui conta? Clique aqui!",
       caso seja preciso oscilar entre as páginas.
 
 
@@ -65,7 +65,7 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
   
   O "input-text(number only)> Celular", é possível efetuar alteração sem precisar validar documentos/fotos dos clientes. Basta clicar no ícone de edição e inserir o celular que desejar.
   
-  Já o campo, E-mail, é necessário efetruar diversos procedimentos por se tratar de um dado sensível. <br><br><br>
+  Já o campo "E-mail" é necessário efetuar diversos procedimentos por se tratar de um dado sensível. <br><br><br>
 
 
 
@@ -73,7 +73,7 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
   
   Essa página contém solicitações de documentos/informações dos clientes. 
   
-    3.1 Solicitar que o mesmo autorize ou rejeite o tratamento dos dados na plataforma, se atentando as leis LGDP
+    3.1 Solicitar que o mesmo autorize ou rejeite o tratamento dos dados na plataforma, se atentando às leis LGDP
         (Lei Geral de Proteção de Dados)
   
         É fundamental que o mesmo escreva se autoriza ou não e o motivo pelo qual está solicitando a edição do e-mail.
@@ -104,7 +104,7 @@ Em primeiro lugar, para efetuar a solicitação de alteração é preciso estar 
 
   Descrição, E-mail deseja, CPF do cadastro, e documentos solicitados. 
   
-  Os atendentes, irão visualizar a solicitação e vericar diante aos documentos/descrição podendo APROVAR ou REPROVAR a solicitação. 
+  Os atendentes visualização a solicitação e vericarão os documentos/descrição podendo APROVAR ou REPROVAR a solicitação. 
   
     4.1 Após clicar no Botão APROVAR, o e-mail do cadastro do usuário é alterado com sucesso e os dados armazenados na
         Tabela_Dados é excluído, referente a essa solicitação.
