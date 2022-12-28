@@ -5,14 +5,14 @@ MANUAL DO SISTEMA
 1 - Página Inicial 
 
 
-    Podemos observar que na Página Inicial, contém algumas interações, sendo elas: botões localizados
-    no cantro superiro dirieto (Entrar, Criar Conta) e um Botão localizado particularmente no centro da tela,
+    Podemos observar que na Página Inicial contém algumas interações, sendo elas: botões localizados
+    no canto superior direito (Entrar, Criar Conta) e um Botão localizado particularmente no centro da tela,
     (Criar Conta). Logo abaixo, contém informações como data, temperatura da cidade de Sorocaba-SP.
     
 ![image](https://user-images.githubusercontent.com/85848930/209716078-0ebdf544-3572-4cdd-bb79-7f33b970168c.png)
 
 
-    Os três botões informados, contém funcionalidades para cadastro ou login no sistema.
+    Os três botões informados contém funcionalidades para cadastro ou login no sistema.
     
     
 2 - Cadastro
@@ -41,7 +41,7 @@ MANUAL DO SISTEMA
 
 
     Nesta página, podemos visualizar os dados cadastrados. Canto superior direito possui um botão para sair
-    do sistema e voltar para a página inicial. Em seguida, no campo e-mail e celular, têm uma opção para efetuar
+    do sistema e voltar para a página inicial. Em seguida, no campo e-mail e celular têm uma opção para efetuar
     alteração dos dados.
     
     
@@ -80,10 +80,10 @@ MANUAL DO SISTEMA
  
  6 - Moderação
  
-     Para finalizar o fluxo de processo, possui a opção para os atendentes moderar as solicitações feitas pelos usuários. 
+     Para finalizar o fluxo de processo, possui a opção para os atendentes moderarem as solicitações feitas pelos usuários. 
      
-     Os atendentes visualizarão as descrições feitas pelos clientes, o e-mail novo, o CPF do cadastro e os documentos enviados.
-     Contendo autoridade para APROVAR OU REPROVAR a solicitação, pelos botões localizados abaixo.
+     Os atendentes visualizarão as descrições feitas pelos clientes, o e-mail novo, o CPF do cadastro e os documentos enviados
+     contendo autoridade para APROVAR OU REPROVAR a solicitação, pelos botões localizados abaixo.
      
    ![image](https://user-images.githubusercontent.com/85848930/209717695-01b8546d-a3a5-49b3-9702-ff45fe8abc74.png)
    
