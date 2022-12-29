@@ -10,7 +10,7 @@ com uma das APIs de meteorologia disponíveis na plataforma para que o valor est
 atualizado.
 
 
-Logo, o problema foi identificado: Falta autonomia de alteração de e-mail pelo próprio cliente da Eduzz. Embora a alteração de e-mail na plataforma seja efetuada internamente pelos atendentes, a mesma não traz produtividade e gera altas demantas, atingindo todos os núcleos dentro da área. Atualmente, a atualização de dados cadastrais é efetuada via ticket/chat, onde ocorre um fluxo de atendimento para que seja concretizada a modificação. Esse fluxo persiste em diversas etapas, solicitando documentos e fotos para que seja realizada com sucesso. Entretanto, afeta diversos fatores, principalemnte no quesito produtividade/qualidade.
+Logo, o problema foi identificado: Falta automatização de alteração de e-mail pelo próprio cliente da Eduzz. Embora a alteração de e-mail na plataforma seja efetuada internamente pelos atendentes, a mesma não traz produtividade e gera altas demantas, atingindo todos os núcleos dentro da área. Atualmente, a atualização de dados cadastrais é efetuada via ticket/chat, onde ocorre um fluxo de atendimento para que seja concretizada a modificação. Esse fluxo persiste em diversas etapas, solicitando documentos e fotos para que seja realizada com sucesso. Entretanto, afeta diversos fatores, principalemnte no quesito produtividade/qualidade.
 
 O projeto traz uma automação para alteração de dados sensíveis, que é uma página onde ocorre a moderação das solicitações dos dados. 
 
